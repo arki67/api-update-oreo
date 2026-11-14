@@ -1,2 +1,2 @@
 "version" = "1.1",
-"new_loader" = "lien du nouveau loader"
+"new_loader" = "https://cdn.discordapp.com/attachments/1525926256774877184/1571260715434516550/image.png?ex=6afa1613&is=6af8c493&hm=987951c63918aad129fd0aa67320fb4ffbbf4867b9235ffc5779f8336811b725&"
